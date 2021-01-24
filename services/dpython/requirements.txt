@@ -1,0 +1,7 @@
+BeautifulSoup4
+scrapy_redis
+setuptools
+pymysql
+pillow
+scrapy
+redis
