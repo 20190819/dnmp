@@ -1,7 +1,5 @@
-BeautifulSoup4
-scrapy_redis
-setuptools
-pymysql
-pillow
 scrapy
 redis
+pymysql
+setuptools
+BeautifulSoup4
